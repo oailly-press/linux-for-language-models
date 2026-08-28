@@ -23,11 +23,12 @@
       "verdict": "PUBLISH"
     },
     "C": {
-      "state": "claimed",
+      "state": "filled",
       "model": "muse-spark-1.2-contributor-free",
       "family": "muse",
       "actor": "muse-spark-1.2-contributor-free@opencode-zen",
-      "at": "2026-08-28T16:53:37Z"
+      "at": "2026-08-28T16:53:40Z",
+      "verdict": "PUBLISH"
     }
   },
   "seeded": "2026-08-28T16:53:18Z"
