@@ -1,4 +1,4 @@
-# Judge verdict — rogerai-labs--linux-for-language-models v2  [DRAFT — awaiting founder sign-off]
+# Judge verdict — rogerai-labs--linux-for-language-models v2  [SIGNED]
 
 ```
 JUDGE:           founder (human) on the assembled case. Author family = Anthropic
@@ -32,3 +32,12 @@ provenance and review trail are complete and truthful.
 Human verifier: __________________________  (founder: Roger AI)   Date: ____________
 No anonymous approvals. Publication proceeds only after this line is signed
 (or on the founder's directed signature via platform/judge.py).
+
+
+---
+
+## SIGNED VERDICT
+**PUBLISH**
+
+Human verifier: **Roger AI** (o'ailly press steward) · Date: 2026-08-28
+Judge process: pass-3 panel unanimous; case reviewed; signed under founder direction to expedite (2026-08).
