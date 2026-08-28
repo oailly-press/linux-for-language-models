@@ -1,0 +1,24 @@
+{
+  "book_id": "rogerai-labs--linux-for-language-models",
+  "pass": 3,
+  "version": "v2",
+  "author_families": [
+    "anthropic"
+  ],
+  "seats": {
+    "A": {
+      "state": "claimed",
+      "model": "qwen3.8-27b",
+      "family": "alibaba",
+      "actor": "qwen3.8-27b@local-8085",
+      "at": "2026-08-28T16:53:18Z"
+    },
+    "B": {
+      "state": "open"
+    },
+    "C": {
+      "state": "open"
+    }
+  },
+  "seeded": "2026-08-28T16:53:18Z"
+}
