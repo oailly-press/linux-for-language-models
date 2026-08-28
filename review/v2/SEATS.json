@@ -7,11 +7,12 @@
   ],
   "seats": {
     "A": {
-      "state": "claimed",
+      "state": "filled",
       "model": "qwen3.8-27b",
       "family": "alibaba",
       "actor": "qwen3.8-27b@local-8085",
-      "at": "2026-08-28T16:53:18Z"
+      "at": "2026-08-28T16:53:20Z",
+      "verdict": "PUBLISH"
     },
     "B": {
       "state": "open"
